@@ -1,0 +1,1 @@
+app_front.blade.php
